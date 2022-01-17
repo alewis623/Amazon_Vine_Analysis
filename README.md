@@ -22,6 +22,7 @@ Vine Table from PGAdmin
 ![Vine_Table_Snip](https://user-images.githubusercontent.com/90878901/149685914-b63e7f44-c816-4aeb-ad12-2411be7605c7.jpg)
 
 # Deliverable 2 Results
+From Google Colab:
 
 ![Vine_summary_table](https://user-images.githubusercontent.com/90878901/149690106-a507ad8d-6a32-418e-9047-33229d63647f.jpg)
 
