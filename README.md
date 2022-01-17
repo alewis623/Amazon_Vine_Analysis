@@ -37,4 +37,4 @@ The results of the analysis of outdoors reviews were as follows:
   * The percentage of 5star vine reviews was 52.34% while non vine 5 star reviews were 52.69%
   
 ## Summary
-There was not a positivity bias in reviewing the vine program for outdoors. Additional analysis is needed. A review of verfied -purchases (also in the data) could be helpful in reviewing the number of 5 star reviews. Another analysis could look at the category. Was this an anomoly to the outdoors category? More data could be used to help determine if this is unique to outdoors or symbolic of larger results. 
+There was not a positivity bias in reviewing the vine program for outdoors. Additional analysis is needed. A review of verfied -purchases (also in the data) could be helpful in reviewing the number of 5 star reviews. Another analysis could look at the category. Was this an anomoly to the outdoors category? More data could be used to help determine if this is unique to outdoors or representitive of larger results. 
